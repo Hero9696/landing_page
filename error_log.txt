@@ -1,0 +1,61 @@
+[24-Feb-2025 21:48:06 Europe/Berlin] PHP Warning:  require_once(controllers/template.controller.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\page\index.php on line 15
+[24-Feb-2025 21:48:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'controllers/template.controller.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\page\index.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\page\index.php on line 15
+[24-Feb-2025 21:49:15 Europe/Berlin] PHP Warning:  require_once(/web/controllers/TemplateController.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\page\index.php on line 15
+[24-Feb-2025 21:49:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/web/controllers/TemplateController.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\page\index.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\page\index.php on line 15
+[24-Feb-2025 21:49:16 Europe/Berlin] PHP Warning:  require_once(/web/controllers/TemplateController.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\page\index.php on line 15
+[24-Feb-2025 21:49:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/web/controllers/TemplateController.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\page\index.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\page\index.php on line 15
+[24-Feb-2025 21:49:25 Europe/Berlin] PHP Warning:  require_once(web/controllers/TemplateController.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\page\index.php on line 15
+[24-Feb-2025 21:49:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'web/controllers/TemplateController.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\page\index.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\page\index.php on line 15
+[24-Feb-2025 21:49:47 Europe/Berlin] PHP Warning:  require_once(web/controllers/templatecontroller.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\page\index.php on line 15
+[24-Feb-2025 21:49:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'web/controllers/templatecontroller.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\page\index.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\page\index.php on line 15
+[24-Feb-2025 21:50:07 Europe/Berlin] PHP Warning:  require_once(/web/controllers/templatecontroller.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\page\index.php on line 15
+[24-Feb-2025 21:50:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/web/controllers/templatecontroller.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\page\index.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\page\index.php on line 15
+[24-Feb-2025 21:50:23 Europe/Berlin] PHP Warning:  require_once(/web/controllers/template.controller.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\page\index.php on line 15
+[24-Feb-2025 21:50:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/web/controllers/template.controller.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\page\index.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\page\index.php on line 15
+[24-Feb-2025 21:50:31 Europe/Berlin] PHP Warning:  include(views/template.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\page\web\controllers\template.controller.php on line 7
+[24-Feb-2025 21:50:31 Europe/Berlin] PHP Warning:  include(): Failed opening 'views/template.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\page\web\controllers\template.controller.php on line 7
+[24-Feb-2025 21:50:55 Europe/Berlin] PHP Warning:  include(views/pages/main/features.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\page\web\views\pages\main.php on line 3
+[24-Feb-2025 21:50:55 Europe/Berlin] PHP Warning:  include(): Failed opening 'views/pages/main/features.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\page\web\views\pages\main.php on line 3
+[24-Feb-2025 21:50:55 Europe/Berlin] PHP Warning:  include(views/pages/main/pricing.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\page\web\views\pages\main.php on line 4
+[24-Feb-2025 21:50:55 Europe/Berlin] PHP Warning:  include(): Failed opening 'views/pages/main/pricing.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\page\web\views\pages\main.php on line 4
+[24-Feb-2025 21:50:55 Europe/Berlin] PHP Warning:  include(views/pages/main/testimonials.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\page\web\views\pages\main.php on line 5
+[24-Feb-2025 21:50:55 Europe/Berlin] PHP Warning:  include(): Failed opening 'views/pages/main/testimonials.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\page\web\views\pages\main.php on line 5
+[24-Feb-2025 21:51:55 Europe/Berlin] PHP Warning:  include(web/modules/navbar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\page\web\views\template.php on line 23
+[24-Feb-2025 21:51:55 Europe/Berlin] PHP Warning:  include(): Failed opening 'web/modules/navbar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\page\web\views\template.php on line 23
+[24-Feb-2025 21:51:55 Europe/Berlin] PHP Warning:  include(web/modules/hero.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\page\web\views\template.php on line 24
+[24-Feb-2025 21:51:55 Europe/Berlin] PHP Warning:  include(): Failed opening 'web/modules/hero.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\page\web\views\template.php on line 24
+[24-Feb-2025 21:51:55 Europe/Berlin] PHP Warning:  include(web/pages/main.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\page\web\views\template.php on line 25
+[24-Feb-2025 21:51:55 Europe/Berlin] PHP Warning:  include(): Failed opening 'web/pages/main.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\page\web\views\template.php on line 25
+[24-Feb-2025 21:51:55 Europe/Berlin] PHP Warning:  include(web/modules/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\page\web\views\template.php on line 26
+[24-Feb-2025 21:51:55 Europe/Berlin] PHP Warning:  include(): Failed opening 'web/modules/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\page\web\views\template.php on line 26
+[24-Feb-2025 21:52:42 Europe/Berlin] PHP Warning:  include(views/pages/main/features.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\page\web\views\pages\main.php on line 3
+[24-Feb-2025 21:52:42 Europe/Berlin] PHP Warning:  include(): Failed opening 'views/pages/main/features.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\page\web\views\pages\main.php on line 3
+[24-Feb-2025 21:52:42 Europe/Berlin] PHP Warning:  include(views/pages/main/pricing.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\page\web\views\pages\main.php on line 4
+[24-Feb-2025 21:52:42 Europe/Berlin] PHP Warning:  include(): Failed opening 'views/pages/main/pricing.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\page\web\views\pages\main.php on line 4
+[24-Feb-2025 21:52:42 Europe/Berlin] PHP Warning:  include(views/pages/main/testimonials.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\page\web\views\pages\main.php on line 5
+[24-Feb-2025 21:52:42 Europe/Berlin] PHP Warning:  include(): Failed opening 'views/pages/main/testimonials.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\page\web\views\pages\main.php on line 5
+[24-Feb-2025 21:54:34 Europe/Berlin] PHP Warning:  include(views/pages/main/pricing.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\page\web\views\pages\main.php on line 4
+[24-Feb-2025 21:54:34 Europe/Berlin] PHP Warning:  include(): Failed opening 'views/pages/main/pricing.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\page\web\views\pages\main.php on line 4
+[24-Feb-2025 21:54:34 Europe/Berlin] PHP Warning:  include(views/pages/main/testimonials.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\page\web\views\pages\main.php on line 5
+[24-Feb-2025 21:54:34 Europe/Berlin] PHP Warning:  include(): Failed opening 'views/pages/main/testimonials.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\page\web\views\pages\main.php on line 5
